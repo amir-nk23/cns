@@ -1,3 +1,7 @@
 my name is amir
 
+<<<<<<< HEAD
 add responsive too
+=======
+resposndive
+>>>>>>> add_responsive
