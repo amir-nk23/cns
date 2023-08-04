@@ -5,3 +5,4 @@ add responsive too
 =======
 resposndive
 >>>>>>> add_responsive
+add text from github
